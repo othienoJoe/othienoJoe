@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @othienoJoe
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning sofware development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me through this space
+I am a Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving problems with code. I love clean code and well written code. I’m currently expanding more and more in web development, android development and new technologies.
 
-<!---
-othienoJoe/othienoJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-#Favorite-Band
-#Favorite-Band
+seedling If you want to begin the journey of a web/application developer , I would recommend this course on UDEMY partying_face
+memo I’m looking to collaborate on Frontend or backend projects.
+zap I’m currently working on a Instagram Shop System
+speech_balloon Ask me about anything JavaScript, Angular, Python etc.
+dancers Checkout my other github othienoJoe
+mailbox How to reach me: nicothieno93@gmail.com
